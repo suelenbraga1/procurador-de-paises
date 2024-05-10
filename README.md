@@ -23,16 +23,14 @@ Apartir do nome de um país, a API retorna as informações de bandeira, capital
 - Clique em procurar.
 - O resultado é a informação da bandeira, capital, continente e população do país inserido.
 
-## 👯 Clone este projeto:
- 
-$ git clone [https://github.com/suelenbraga1/procurador-de-paises.git]
-# Acessar
-$ cd procurador-de-paises
-
-
-
 ## 👾 Link da página no github pages:
 
 https://https://suelenbraga1.github.io/procurador-de-paises/
 
+## 👯 Clone este projeto:
+
+```bash
+$ git clone https://github.com/suelenbraga1/procurador-de-paises.git
+# Acessar
+$ cd procurador-de-paises
 
