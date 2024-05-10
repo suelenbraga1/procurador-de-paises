@@ -25,14 +25,13 @@ Apartir do nome de um país, a API retorna as informações de bandeira, capital
 
 ## 👯 Clone este projeto:
  
-git clone 
-<a href="https://github.com/suelenbraga1/procurador-de-paises.git">
-Acessar
+git clone https://github.com/suelenbraga1/procurador-de-paises.git
+
 cd procurador-de-paises
-Instalar Live Server 
-<a href="https://www.npmjs.com/package/live-server">
+
 
 ## 👾 Link da página no github pages:
+
 https://https://suelenbraga1.github.io/procurador-de-paises/
 
 
