@@ -25,7 +25,7 @@ Apartir do nome de um país, a API retorna as informações de bandeira, capital
 
 ## 👾 Link da página no github pages:
 
-https://https://suelenbraga1.github.io/procurador-de-paises/
+[https://https://suelenbraga1.github.io/procurador-de-paises/](https://suelenbraga1.github.io/procurador-de-paises/)
 
 ## 👯 Clone este projeto:
 
